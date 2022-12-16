@@ -1,10 +1,9 @@
 # Maigret
 
-<form>
-    <input type="text">
-    <button type="submit">Enviar</button>
-</form>
-
+<div>
+  <h1>Clique no botão abaixo e altere o seu estilo:</h1>
+  <button id="novaCor" onClick="cliqueBtn()">Clique aqui</button>
+</div>
 
 <p align="center">
   <p align="center">
