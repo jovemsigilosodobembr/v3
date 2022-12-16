@@ -1,7 +1,9 @@
 # Maigret
 
-<button>Click Aqui</button>
-
+<form>
+    <input type="text">
+    <button type="submit">Enviar</button>
+</form>
 
 
 <p align="center">
