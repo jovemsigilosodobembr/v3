@@ -4,6 +4,13 @@
   <h1>Clique no botão abaixo e altere o seu estilo:</h1>
   <button id="novaCor" onClick="cliqueBtn()">Clique aqui</button>
 </div>
+function cliqueBtn() {
+  document.getElementById("novaCor").style.background = "red";
+  document.getElementById("novaCor").style.color = "white"
+}
+
+
+
 
 <p align="center">
   <p align="center">
